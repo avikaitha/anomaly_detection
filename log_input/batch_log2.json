@@ -1,0 +1,12 @@
+{"D":"2", "T":"50"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "6981", "id2": "3402"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:40", "id": "6981", "amount": "56.01"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "6037", "id2": "8071"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "6185", "id2": "8617"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "7759", "id2": "2290"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:40", "id": "3402", "amount": "65.23"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "3146", "id2": "6554"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "2633", "id2": "5005"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "8316", "id2": "3075"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "2486", "id2": "1902"}
+{"event_type":"purchase", "timestamp":"2017-06-10 18:46:40", "id": "3402", "amount": "65.23"}

@@ -1,0 +1,2 @@
+User: 2 Threshold: 128.10504858410684
+User: 3 Threshold: 107.95812836825812
